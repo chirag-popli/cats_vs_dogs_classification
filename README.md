@@ -15,5 +15,5 @@ Deep Learning
 # Languages-:
 Python
 
-#IDE/FRAMEWORK-:
+# IDE/FRAMEWORK-:
 Google collab
